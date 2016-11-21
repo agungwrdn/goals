@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         mTaskListView = (ListView) findViewById(R.id.list_todo);
 
         updateUI();
+
     }
 
     @Override
